@@ -1,1 +1,12 @@
-# show-user-location-on-map-snippet
+# Showing the users location on a map
+
+In this snippet, I display the users location on a map view.
+
+## Tech Specs
+
+- iOS 12.2
+- Swift 5
+
+<p align="center">
+  <img src="images/image1.png" width="350" title="Image 1">
+</p>
