@@ -1,6 +1,6 @@
 # Showing the users location on a map
 
-In this snippet, I display the users location on a map view.
+In this snippet, I display the users location on a map view using ```MapKit``` and ```CoreLocation```.
 
 ## Tech Specs
 
